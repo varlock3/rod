@@ -7,7 +7,7 @@ client.on('ready', function(){
  game: { 
     type: 1,
      url: 'https://www.twitch.tv/skwadraa',
-    name: 'لآ تَتَمسك بِـمن لآ يعرِف  قيمَـتُك',
+    name: 'don’t stick those who doesn’t know your value .,
     application_id: '488568669111189514',
      assets: {
          large_image:   `509847999518605312`,
